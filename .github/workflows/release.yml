@@ -1,4 +1,4 @@
-name: Release pdca-scaffold
+name: Release ai-workflow-builder
 
 on:
   push:
@@ -30,4 +30,4 @@ jobs:
             unzip -o pdca-scaffold.skill -d ~/.claude/skills/
             ```
 
-            See the [README](https://github.com/kenjudy/pdca-scaffold/blob/main/README.md) for full documentation.
+            See the [README](https://github.com/kenjudy/ai-workflow-builder/blob/main/README.md) for full documentation.

@@ -1,9 +1,9 @@
-# pdca-scaffold Changelog
+# ai-workflow-builder Changelog
 
 ## v1.2.0 (2026-06-19)
 
 ### Breaking Change
-- **Repository split**: pdca-scaffold moved from `kenjudy/pdca-framework` into its own repository `kenjudy/pdca-scaffold`. No changes to the skill content itself.
+- **Repository split and rename**: pdca-scaffold moved from `kenjudy/pdca-framework` into its own repository `kenjudy/ai-workflow-builder`. No changes to the skill content itself.
 
 ---
 
